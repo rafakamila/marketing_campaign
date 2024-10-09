@@ -1,2 +1,2 @@
 # marketing_campaign
-A response model can provide a significant boost to the efficiency of a marketing campaign by increasing responses or reducing expenses. The objective is to predict who will respond to an offer for a product or service
+The provided dataset contains information about a marketing campaign. By analyzing this data, we can gain valuable insights into the effectiveness of the campaign and identify areas for improvement.
